@@ -6,17 +6,17 @@
 
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
-- 이름: 정성민
+- 이름: 최소리
 - 군필여부: 병역특례로 복무완료
 - 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
+- Email: sori1436@naver.com
+- GitHub: [github.com/SoriChoi](https://github.com/SoriChoi)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 ```
 엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
+
 
 ## 회사경력
 - [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
@@ -32,8 +32,8 @@
 - 삼성소프트웨어멤버십 주니어 1기(2014)
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+- 광운대학교 전기공학과 (2019 입학)
+
 
 ## 사용 기술
 ### Android
