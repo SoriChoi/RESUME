@@ -23,7 +23,10 @@
 ## 경력
 - 
 ### TODO_LIST
+
 -https://trello.com/b/XV7cSiok/todolist
+
+
 
 더 궁금하신 내용이 있다면 sori1436@naver.com으로 연락주세요.
 감사합니다.
