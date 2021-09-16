@@ -5,7 +5,7 @@
 ![status](https://img.shields.io/badge/hired-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/SoriChoi/RESUME/raw/master/images/pink.jpg)
+![프로필이미지](https://github.com/SoriChoi/RESUME/raw/master/images/pink.jpeg)
 - 이름: 최소리
 - 취미: 피아노
 - Email: sori1436@naver.com
