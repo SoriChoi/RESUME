@@ -5,15 +5,15 @@
 ![status](https://img.shields.io/badge/hired-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/SoriChoi/RESUME/raw/master/images/pik.jpg)
+![프로필이미지](https://github.com/SoriChoi/RESUME/raw/master/images/pink.jpg)
 - 이름: 최소리
 - 취미: 피아노
 - Email: sori1436@naver.com
-- GitHub: [github.com/SoriChoi](https://github.com/SoriChoi)
+- GitHub: [github.com/sori1436](https://github.com/sori1436)
 ```
-
+```
 ## 학력
-- 광운대학교 전기공학과 (2019 입학)
+광운대학교 전기공학과 졸업(2019 입학)
 
 ## 자격증
 - 컴퓨터활용능력1급
@@ -21,7 +21,6 @@
 - 한국어문회 2급
 
 ## 경력
--
 
 ### TODO_LIST
 -https://trello.com/b/XV7cSiok/todolist
