@@ -21,7 +21,7 @@
 - 한국어문회 2급
 
 ## 경력
-- 
+- 아직 진로를 정하지 못하여 어떤 분야에서 경력을 쌓아야할지 계속해서 고민 중이다.
 ### TODO_LIST
 
 -https://trello.com/b/XV7cSiok/todolist
